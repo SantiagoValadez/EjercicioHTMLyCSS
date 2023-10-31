@@ -1,0 +1,47 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Título {
+    /* color: rgb(87, 88, 143); */
+    font-size: 48px;
+    /* border: 7px black double; */
+    /* border-radius: 7px; */
+    /* text-shadow: 3px 5px 5px gray; */
+    /*
+    solid
+    dotted
+    dashed
+    double
+    groove
+    ridge
+    inset
+    outset
+    none
+    hidden
+    */
+} 
+
+body {
+    margin: 0;
+    background-color: #efefef;
+}
+
+header {
+    background-color: #364552;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #364552;
+    color: white;
+    padding: 3rem 2rem;
+}
